@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "protean-chassis-453100-t8",
+  "private_key_id": "612d1545e857efd05618a08911216456071d4ac5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSV1b8LrjT5r2n\nW6aEyFhkjBIt79DA+NynktOBx4+LWByy9htw8MlOsiwojB87jbyTr0TM9YhGcw1W\nRa2DM3o+SKhdWIiAt6ZPPSyojFCPreC9SGCAXFXE6M4Mr6/vos4X5ypiQl3n3qHJ\nEHDHrUwjvUHqezz+eLZ6Xv708wLUedcrh17sCkRjIICcIWjyzw68k5GajywUt84n\na1t2Kk2c6RneFBhIuCDU3JM1ghzRCuUO8gT7iFRIMl1qelPqrPqsWBFVHlcSN2jq\nwvGT/EJlpHRElBhWF1AW2oNfFgPpOWuoD7itirEaAot7vlJdMV7T5q5DNigItOk1\nJQ3fMJcvAgMBAAECggEAARZCdNB+VASqkOWAWXSk6vVuV/PCoxH7fJeIUEYKZTCc\ntVq1ju0vnSB+lJcPckIBP3d1u46+mDPwAF92eL8Yr/RgKltSw+zZsdR3GUfgWAhl\n/j8UK0BO5n2YKFNKwspB67heF7PlbaqmMLZ3tBBz3EYWGR1vQJa5xVgdqSu4UAYZ\nbaUpOntWS1nMGotq6PE8ppdzODRX0WX1iFamucOtntUKXX4uEL1RbUZEgO/W4ggt\nBo9PBxTtrbrgp1wOSuRG2a+MT/kUzYglaUwZruX35/4u9U9BxQkpV2TDR2+G/64k\nEjEt+v9wzAY4VzqKiqnItN/e0D/j4HAd24KF50a/AQKBgQDvF+IBoUqyrqJSJDtr\n8ipnV0JWKGCNU3/SAc2oTwKIFtAIRFJTmZuiLeWWI+c0d4n5uBYKYMjYm5KUDvCy\n6r+t3gPF9sKuYF3xxhlGECLNG26JDMxH0eRqnOBA5sVG89STlhV9pJQHLUYn3C3P\ntWL7tPPlnni5wWmav8gJwyXT0QKBgQDhNvrglelQLV5XiGLfgIg8sNTnC7Wohm0z\n2+b5Y9OTP40Tt5S/dBzfdtFcaQfk61lRFRhCX1EM0Hy5jmcexYs6MEu6mMTmNy3q\n9yx01sIsP49nkdKW2KkJVyCN6Rd3AaKDKDaSlf/jxy4Aw69slGkRfUCgPOaofLdt\n/CF9tcF6/wKBgAUKteNe6VpXQGkHBpHCK46+UlHKzC5uwlVFYHbaI62G/aAPAMVu\nic+jtCG0ZB3BH5G6hgx1+gZHUZH5tq2vMZeTBPVZvMU8lv6QNNw7XuCAYZZWRMCG\n9pAg+sGjnClg3uy1z4I0xEJafA4/IGAu7QVtzW7cJqOUJovy218JVHThAoGAbrSO\n98zZBj9264IwT/snfOXTkcswvalujppe3GJUw0HvAC0yojXaZ4JJgapjZgTGP9Ql\nu6KM/caSOMgmKnsiaDULVKr5xsyC9sgPg1N52TRZMqj8oofX965rYzacATS9hMlE\noiO3yGjFVTzbw3zkdONj3CBzpYjAxgC1Gc05UVMCgYEAnGorXxkxEx8CJhEuKWvV\nMQmEzcCbKfKl28GV0+J31V+lgAluLKDFZwXXJleij/v9IoTS8VTvn6dbaUHQyH4A\nJnSV5i98RWSWhsvJOiCklu8SBpdn2trLX70TKONVk343FaWob05mDWzZERy7FLy3\nUPZaCHX/m+/TBUr0PM4xV90=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speedymart-search@protean-chassis-453100-t8.iam.gserviceaccount.com",
+  "client_id": "102430462207066193260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speedymart-search%40protean-chassis-453100-t8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,7 @@
+ $select_category = "SELECT category_title FROM `categories` WHERE category_id = ?";
+            $stmt_category = $con->prepare($select_category);
+            $stmt_category->bind_param("i", $category_id);
+            $stmt_category->execute();
+            $category_result = $stmt_category->get_result();
+            $category_row = $category_result->fetch_assoc();
+            $category_title = $category_row['category_title'] ?? "Unknown category";

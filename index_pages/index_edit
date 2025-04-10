@@ -1,0 +1,23 @@
+WHERE 1=0"; // This will be replaced by dynamic conditions
+
+$params = [];
+$types = "";
+
+// Add filters dynamically
+if (!empty($brand)) {
+    $query .= " OR b.brand_title = ?";
+    $params[] = $brand;
+    $types .= "s"; // String type
+}
+if (!empty($category)) {
+    $query .= " OR c.category_title = ?";
+    $params[] = $category;
+    $types .= "s"; // String type
+}
+
+// If no filters are provided, remove the `1=0` condition to prevent returning an empty result
+$query = str_replace("WHERE 1=0 OR", "WHERE", $query);
+// Bind parameters dynamically if there are any
+if (!empty($params)) {
+    $stmt->bind_param($types, ...$params);
+}

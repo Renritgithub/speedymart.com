@@ -1,0 +1,9 @@
+<?php
+// Start session with secure cookie settings
+session_start([
+    'cookie_lifetime' => 86400,   // 1 day
+    'cookie_secure' => true,      // Only send cookie over HTTPS
+    'cookie_httponly' => true,    // Prevent JavaScript access to session cookies
+    'cookie_samesite' => 'Strict' // Prevent CSRF by restricting cross-site cookie usage
+]);
+?>

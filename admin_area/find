@@ -1,0 +1,8 @@
+ <div class='form-outline w-50 m-auto mb-4' >
+            <label class='form-label'>Enter Attribute Values:</label>
+            <input type='text' class='form-control' required name='attribute_values[]' placeholder='Enter a value (e.g., Red)'>
+        </div>
+        <div class='form-outline w-50 m-auto mb-4' id='attribute_values'>
+            <label class='form-label'>price increase:</label>
+            <input type='text' class='form-control' required name='price_values[]' placeholder='Enter the increase price'>
+        </div>

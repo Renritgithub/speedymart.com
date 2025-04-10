@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Shoes",
+        "image": "../admin_area/product_images/6718d5e3815de_shoes (3).jpeg",
+        "link": "shop.html"
+    },
+    {
+        "title": "Girls Outfit",
+        "image": "../admin_area/product_images/6718d7e6ad873_kids (19).jpeg",
+        "link": "shop.html"
+    },
+    {
+        "title": "Flying Pan",
+        "image": "../admin_area/product_images/6718d9ded3cbe_category.jpeg",
+        "link": "shop.html"
+    },
+    {
+        "title": "Jersey",
+        "image": "../admin_area/product_images/671f3945c18b5_jersey (12).jpeg",
+        "link": "shop.html"
+    }
+    
+]
